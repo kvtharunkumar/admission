@@ -50,7 +50,7 @@
                   <option>PCMC</option>
                   <option>CEMB</option>
                 </select>
-              </div>
+</div>
 
               <div class="input-field">
                 <label>UG marks</label>
